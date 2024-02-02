@@ -1,0 +1,13 @@
+C:\Users\dimab\source\repos\TaskManagerWebAPI\TaskManagerMapping\bin\Debug\netcoreapp3.1\TaskManagerMapping.deps.json
+C:\Users\dimab\source\repos\TaskManagerWebAPI\TaskManagerMapping\bin\Debug\netcoreapp3.1\TaskManagerMapping.dll
+C:\Users\dimab\source\repos\TaskManagerWebAPI\TaskManagerMapping\bin\Debug\netcoreapp3.1\TaskManagerMapping.pdb
+C:\Users\dimab\source\repos\TaskManagerWebAPI\TaskManagerMapping\bin\Debug\netcoreapp3.1\TaskManagerCommon.dll
+C:\Users\dimab\source\repos\TaskManagerWebAPI\TaskManagerMapping\bin\Debug\netcoreapp3.1\TaskManagerCommon.pdb
+C:\Users\dimab\source\repos\TaskManagerWebAPI\TaskManagerMapping\obj\Debug\netcoreapp3.1\TaskManagerMapping.csproj.AssemblyReference.cache
+C:\Users\dimab\source\repos\TaskManagerWebAPI\TaskManagerMapping\obj\Debug\netcoreapp3.1\TaskManagerMapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimab\source\repos\TaskManagerWebAPI\TaskManagerMapping\obj\Debug\netcoreapp3.1\TaskManagerMapping.AssemblyInfoInputs.cache
+C:\Users\dimab\source\repos\TaskManagerWebAPI\TaskManagerMapping\obj\Debug\netcoreapp3.1\TaskManagerMapping.AssemblyInfo.cs
+C:\Users\dimab\source\repos\TaskManagerWebAPI\TaskManagerMapping\obj\Debug\netcoreapp3.1\TaskManagerMapping.csproj.CoreCompileInputs.cache
+C:\Users\dimab\source\repos\TaskManagerWebAPI\TaskManagerMapping\obj\Debug\netcoreapp3.1\TaskManagerMapping.csproj.CopyComplete
+C:\Users\dimab\source\repos\TaskManagerWebAPI\TaskManagerMapping\obj\Debug\netcoreapp3.1\TaskManagerMapping.dll
+C:\Users\dimab\source\repos\TaskManagerWebAPI\TaskManagerMapping\obj\Debug\netcoreapp3.1\TaskManagerMapping.pdb

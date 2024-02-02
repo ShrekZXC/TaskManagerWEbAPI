@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TaskManagerCommon\TaskManagerCommon.csproj" />
+    <ProjectReference Include="..\TaskManagerDAL\TaskManagerDAL.csproj" />
+    <ProjectReference Include="..\TaskManagerMapping\TaskManagerMapping.csproj" />
+  </ItemGroup>
+
+</Project>

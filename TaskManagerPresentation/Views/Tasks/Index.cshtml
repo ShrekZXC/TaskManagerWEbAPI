@@ -1,0 +1,57 @@
+﻿@using TaskManagerCommon.ViewModels;
+
+@{
+    Layout = "_Layout";
+}
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-12">
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th scope="col">Задача</th>
+                        <th scope="col">Описание</th>
+                        <th scope="col">Статус</th>
+                    </tr>
+                </thead>
+                <tbody>
+                </tbody>
+            </table>
+
+            <button class="btn btn-primary rounded-pill px-3" id="btnCreate">Добавить</button>
+            <button class="btn btn-warning rounded-pill px-3" id="btnUpdate">Редактировать</button>
+            <button class="btn btn-danger rounded-pill px-3" id="btnDelete">Удалить</button>
+        </div>
+    </div>
+</div>
+
+<div class="modal" id="TaskModal">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 class="modal-title" id="modalTitle"></h3>
+            </div>
+            <div class="modal-body">
+                <input type="hidden" id="Id">
+                <div class="mb-2">
+                    <label>Название:</label>
+                    <input type="text" id="Name" class="form-control" placeholder="Название">
+                </div>
+
+                <div class="mb-2">
+                    <label>Описание:</label>
+                    <textarea id="Description" class="form-control" placeholder="Описание"></textarea>
+                </div>
+
+                <div>
+                    <label>Статус:</label>
+                    <select class="form-control" id="statusDropdown"></select>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-primary rounded-pill px-3" id="btnDone" type="submit"></button>
+            </div>
+        </div>
+    </div>
+</div>
